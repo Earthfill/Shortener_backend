@@ -40,7 +40,6 @@ This is a simple URL shortener API built with NestJS that allows users to shorte
     "longUrl": "https://example.com"
   }
 
-  ```json
   {
     "shortUrl": "http://localhost:3000/url/abc123"
   }
